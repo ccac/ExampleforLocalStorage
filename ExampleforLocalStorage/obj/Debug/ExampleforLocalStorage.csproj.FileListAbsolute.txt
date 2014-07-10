@@ -1,0 +1,24 @@
+C:\Documents and Settings\twang1\My Documents\Visual Studio 2008\Projects\ExampleforLocalStorage\ExampleforLocalStorage\Bin\Debug\ExampleforLocalStorage.dll
+C:\Documents and Settings\twang1\My Documents\Visual Studio 2008\Projects\ExampleforLocalStorage\ExampleforLocalStorage\Bin\Debug\ExampleforLocalStorage.pdb
+C:\Documents and Settings\twang1\My Documents\Visual Studio 2008\Projects\ExampleforLocalStorage\ExampleforLocalStorage\Bin\Debug\AppManifest.xaml
+C:\Documents and Settings\twang1\My Documents\Visual Studio 2008\Projects\ExampleforLocalStorage\ExampleforLocalStorage\Bin\Debug\ExampleforLocalStorage.xap
+C:\Documents and Settings\twang1\My Documents\Visual Studio 2008\Projects\ExampleforLocalStorage\ExampleforLocalStorage\Bin\Debug\TestPage.html
+C:\Documents and Settings\twang1\My Documents\Visual Studio 2008\Projects\ExampleforLocalStorage\ExampleforLocalStorage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\twang1\My Documents\Visual Studio 2008\Projects\ExampleforLocalStorage\ExampleforLocalStorage\obj\Debug\App.g.cs
+C:\Documents and Settings\twang1\My Documents\Visual Studio 2008\Projects\ExampleforLocalStorage\ExampleforLocalStorage\obj\Debug\Page.g.cs
+C:\Documents and Settings\twang1\My Documents\Visual Studio 2008\Projects\ExampleforLocalStorage\ExampleforLocalStorage\obj\Debug\ExampleforLocalStorage.g.resources
+C:\Documents and Settings\twang1\My Documents\Visual Studio 2008\Projects\ExampleforLocalStorage\ExampleforLocalStorage\obj\Debug\ExampleforLocalStorage.dll
+C:\Documents and Settings\twang1\My Documents\Visual Studio 2008\Projects\ExampleforLocalStorage\ExampleforLocalStorage\obj\Debug\ExampleforLocalStorage.pdb
+C:\Documents and Settings\twang1\My Documents\Visual Studio 2008\Projects\ExampleforLocalStorage\ExampleforLocalStorage\obj\Debug\XapCacheFile.xml
+D:\ExampleforLocalStorage\ExampleforLocalStorage\Bin\Debug\ExampleforLocalStorage.dll
+D:\ExampleforLocalStorage\ExampleforLocalStorage\Bin\Debug\ExampleforLocalStorage.pdb
+D:\ExampleforLocalStorage\ExampleforLocalStorage\Bin\Debug\AppManifest.xaml
+D:\ExampleforLocalStorage\ExampleforLocalStorage\Bin\Debug\ExampleforLocalStorage.xap
+D:\ExampleforLocalStorage\ExampleforLocalStorage\Bin\Debug\TestPage.html
+D:\ExampleforLocalStorage\ExampleforLocalStorage\obj\Debug\ResolveAssemblyReference.cache
+D:\ExampleforLocalStorage\ExampleforLocalStorage\obj\Debug\App.g.cs
+D:\ExampleforLocalStorage\ExampleforLocalStorage\obj\Debug\Page.g.cs
+D:\ExampleforLocalStorage\ExampleforLocalStorage\obj\Debug\ExampleforLocalStorage.g.resources
+D:\ExampleforLocalStorage\ExampleforLocalStorage\obj\Debug\ExampleforLocalStorage.dll
+D:\ExampleforLocalStorage\ExampleforLocalStorage\obj\Debug\ExampleforLocalStorage.pdb
+D:\ExampleforLocalStorage\ExampleforLocalStorage\obj\Debug\XapCacheFile.xml

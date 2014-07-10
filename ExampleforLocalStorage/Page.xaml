@@ -1,0 +1,48 @@
+﻿<UserControl x:Class="ExampleforLocalStorage.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="420" Height="800">
+    <Grid x:Name="LayoutRoot" Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="120"/>
+            <RowDefinition Height="120"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="120"/>
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Row="0" Grid.Column="0" Text="DirectList:" VerticalAlignment="Center" Foreground="Blue"></TextBlock>
+        <ListBox x:Name="DirectoryList" Grid.Column="1" Grid.Row="0"
+             Margin="40 10 10 10"
+             HorizontalContentAlignment="Left" VerticalContentAlignment="Bottom" 
+             SelectionChanged="DirectoryList_SelectionChanged"></ListBox>
+        <TextBlock Grid.Row="1" Grid.Column="0" Text="FilesList:" VerticalAlignment="Center" Foreground="Blue"></TextBlock>
+        <ListBox x:Name="FileList" Grid.Column="1" Grid.Row="1"
+                 Margin="40 10 10 10"
+                 HorizontalContentAlignment="Left" VerticalContentAlignment="Bottom"></ListBox>
+        <TextBlock Grid.Row="2" Grid.Column="0" Text="Director:" VerticalAlignment="Center" Foreground="Blue"></TextBlock>
+        <TextBox x:Name="DirectoryName" Grid.Row="2" Grid.Column="1" VerticalAlignment="Center"></TextBox>
+        <TextBlock Grid.Row="3" Grid.Column="0" Text="File:" VerticalAlignment="Center" Foreground="Blue"></TextBlock>
+        <TextBox x:Name="FileName" Grid.Row="3" Grid.Column="1" VerticalAlignment="Center"></TextBox>
+        <TextBlock Grid.Row="4" Grid.Column="0" Text="Text of file:" VerticalAlignment="Center" Foreground="Blue"></TextBlock>
+        <TextBox x:Name="TextFile" Grid.Row="4" Grid.Column="1" VerticalAlignment="Center" Width="290" Height="100"></TextBox>
+        <Canvas Grid.Row="5" Grid.Column="1" VerticalAlignment="Center" Background="AliceBlue">
+            <Button x:Name="CreateDirectory" Canvas.Top="1" Canvas.Left="10" Width="75" Height="30"
+                    Content="CreateDir" Click="CreateDirectory_Click"></Button>
+            <Button x:Name="CreateFile" Canvas.Top="1" Canvas.Left="95" Width="75" Height="30"
+                    Content="CreateFile" Click="CreateFile_Click"></Button>
+            <Button x:Name="ReadFile" Canvas.Top="40" Canvas.Left="10" Width="75" Height="30"
+                    Content="ReadFile" Click="ReadFile_Click"></Button>
+            <ToggleButton x:Name="DeleteFile" Canvas.Top="80" Canvas.Left="10" Width="75" Height="30"
+                          Content="DeleteFile" Click="DeleteFile_Click"></ToggleButton>
+            <ToggleButton x:Name="DeleteDirectory" Canvas.Top="80" Canvas.Left="95" Width="75" Height="30"
+                          Content="DeleteDir" Click="DeleteDirectory_Click"></ToggleButton>
+            <Button x:Name="AddQuota" Canvas.Top="40" Canvas.Left="95" Width="75" Height="30"
+                    Content="AddQuota" Click="AddQuota_Click"></Button>
+        </Canvas>
+    </Grid>
+</UserControl>
